@@ -1,16 +1,15 @@
 <!-- .slide: data-background-image="img/cropped-instin_climax_00.jpg" -->
 <!-- .slide: class="hover"-->
 
-## L’écriture dispositive du réseau d’écrivains
+## Les institutions fantômes de la littérature numérique
 &nbsp;
 
 Nicolas Sauret  
-(avec Servanne Monjour)
 
 ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
 
-_Quelle littérature numérique pour demain&nbsp;?_  
-_ELO2018_  - Montréal - 13-17 août 2018
+_Cartographie du web littéraire francophone_  
+Université Lyon 3 - 22-24 janvier 2020
 
 <!-- .element: style="font-size:1.4rem" -->
 
@@ -18,7 +17,7 @@ _ELO2018_  - Montréal - 13-17 août 2018
 
 ===
 
-Merci beaucoup Servanne, je vais maintenant présenter un travail de recherche que nous avons mené ensemble sur un corpus littéraire particulier, celui du Général Instin. C'est une réflexion que nous avons déjà présenté l'année dernière à Cerisy.
+
 
 
 
@@ -28,186 +27,225 @@ Merci beaucoup Servanne, je vais maintenant présenter un travail de recherche q
 
 ## Sommaire
 
-* Instin - corpus (d'un) fantôme
-* _Instin Studies_ - l'éditorialisation comme méthodologie littéraire
-* Dispositifs et écritures
-* Enjeux
+* introduire la _Publishing Sphere_
+* Intuition d'une synergie ou chronique d'un échec
+* _Instin Studies_ (rappel)
+* Intersections
+  - Patrick Chatelier
+  - Ambassade des communs
+* ébauche de nouvelles institutions
 
 ===
 
-Je présenterai très rapidement le corpus Instin pour comprendre de quoi il s'agit, puis notre méthodologie, avant d'aborder une réflexion croisée sur les notions de dispositif et d'écriture,  qui, avec la théorie de l'éditorialisation, nous amènent à déplacer notre regard sur les enjeux de la littérature contemporaine lorsqu'elle est travaillée par le numérique.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/instinss.jpg" -->
 
-# Instin
+## Introduire  
+## la Publishing Sphere
 
-## corpus (d'un) fantôme
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/ps-tierslivre.png" data-background-size="contain" -->
 
-source image: _Quand on écrira l’histoire secrète du vingt et unième siècle…_ sur remue.net  
 
-<!-- .element: class="source" -->
+<!-- ![ps-tierslivre](img/ps-tierslivre.png) -->
 
 ===
 
-En nous attelant à l'étude du Général Instin, nous n'avions pas imaginé que notre projet serait celui d'un corpus fantôme, un corpus hétérogène, mouvant, insaisissable, dont la nature est en quelque sorte de ne pas avoir de nature, ou du moins d'en changer tout le temps.
+Pour cette communication, je repars d'un évenement organisé à Montréal en mai 2019, intitulé _Publishing Sphere_. Prenant la suite d'une première édition initiée par Lionel Ruffel à Berlin l'été 2017, cette seconde édition était co-organisé par Lionel Ruffel, et l'équipe montréalaise de la chaire sur les écritures numériques, dirigée par Marcello Vitali-Rosati.
 
-Hinstin, avec un H, c'est d'abord le nom d'un général du XIXe siècle, mort et enterré en 1905.
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/affichePSorga50.jpg" data-background-size="contain"-->
+
+<!-- ![Capture site](pssite-programme.png) -->
+
+===
+
+Dans cette édition, nous avions voulu interroger ...  en rassemblant un panel d'éditeurs, d'auteur, de chercheurs et d'artistes, qui, à defaut d'être représentatif d'un web littéraire, tissait des liens et jetait des passerelles entre des mondes éditoriaux XXX..
+
+L'enjeu de la PS, dans la lignée de la vision de Lionel Ruffel, était de déplacer le regard de la littérature, qu'elles qu'en soient les manifestations, pour s'intéresser aux processus qui la portent, l'affichent, l'éditent, la publient, etc.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/pssite-programme.png" data-background-size="contain"-->
 
 
+
+===
+
+La Publishing Sphere avait l'ambition d'expérimenter des dispositifs d'écriture et d'édition, quelqu'en soit la forme.
+
+Nous avions réparti la quarantaine de participants en 6 groupes de travail qui pendant trois jours ont planché pour proposer une ou plusieurs dispositifs et/ou production·s éditoriale·s, qu'elle soit poétique, littéraire, expérimentale, documentaire, ou autre.
+
+Un des groupes de travail, le Shanzhai Lyrics, a ainsi performé une traduction poétique des inscriptions trouvées sur les vêtements contrefaits en Chine [photos].
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+![ps-exphrasis](img/ps-exphrasis.png)
+<!-- .element: style="width:48%;float:left" -->
+
+![ps-tweetexphrasis](img/ps-tweetexphrasis.png)
+<!-- .element: style="width:48%" -->
+
+===
+Un des groupes de travail, mené par l'artiste Steve Giasson, s'est livré à l'exphrasis de sa page facebook, performance à 5 voix d'une trentaine de minutes.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/ps-pinkmypad.png" data-background-size="cover"-->
+
+> \> The Publishing Sphere emerges from writing in its broadest sense. For that very reason, it provides this Read/Write space that everyone can use to express, document, exchange, copy and paste, rewrite, remix and mashup.
+
+<!-- .element: style="background-color:#222;font-size:0.8em;padding:2em" -->
+<!-- .element class="fragment" data-fragment-index="2" -->
+
+===
+Dans un esprit d'associer théorie et pratique, ou de faire naître la pensée par la pratique, nous avions proposé une plateforme d'écriture, de lecture et d'échange, elle-même un petit bijoux de bricolage, c'est-à-dire une techno aussi sale qu'efficace, aussi élégante qu'obscure, à la croisée de pratiques d'écritures émergentes (le pad d'écriture collaboratif) et d'une éditorialisation low-tech, et se voulant à la fois ouverte, transparente, appropriable.
+
+[CITATION]
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/ps-pmp-experimentaltranslation.png" data-background-size="cover"-->
+
+<!-- ![ps-pmp-ExperimentalTranslation](img/ps-pmp-experimentaltranslation.png) -->
+
+===
+Un espace d'écriture donc, très libre et très simple d'utilisation, que chaque groupe était invité à s'approprier, en se créant des pages, des notes, des pads d'écriture, automatiquement éditorialisés et associés à une interface d'annotation permettant ainsi une double production scripturale.
+
+Cette plateforme (j'hésite à appeler ça une plateforme), c'était notre propre expérimentation au sein de la publishing sphere, une sorte de méta-sphere censée offrir un espace non pas centralisant, mais centrifuge, en espérant voir se développer le fameux rizhome.
+
+[Voici ce que cela donne finalement en terme de réseau.]
+[RESEAU de LIEN]
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/instin-puntaUnion.jpg" data-background-size="cover"-->
+
+## Institutions fictionnelles
+
+<!-- .element: style="margin-top:2.5em" -->
+
+- **Patrick Chatelier** et **Eric Darsan** (Général Instin)
+- **Sébatien Thiéry** (PEROU)
+- **Camille Louis** (Kom.post)
+- **Sylvia Fredriksson** (Ambassade des communs de WOS/Agence des hypothèses)
+
+<!-- .element: style="background-color:#222;font-size:0.8em;padding:1em 2em" -->
+<!-- .element class="fragment" data-fragment-index="2" -->
+
+Image : Siège officiel de l’institution fictionnelle en hommage au PEROU  
+\#GI #Patrick #traitdunion
+
+<!-- .element: style="background-color:#222;font-size:0.7em;margin-top:4em" -->
+
+===
+Le groupe auquel j'ai participé s'intitulait Institutions fictionnelles. Il était initié par Sylvia Fredriksson, designeuse très engagée dans le mouvement des communs en France.
+
+
+le groupe rassemblait deux membres du Général Instin, Eric Darsan et Patrick Chatelier, ce dernier, éditeur de la plateforme de création littéraire Remue.net, a été et reste encore la figure la plus engagée dans le collectif Instin.
+
+Sebastien Thiéry, enseignant à École Nationale Supérieure d’Architecture de Paris Malaquais et fondateur du PEROU, le _Pôle d’Exploration des Ressources Urbaines_. Le PEROU est un groupe d'action développant «des recherches-actions sur les confins de nos villes (bidonvilles, jungles, squats, refuges en tout genre) et les gestes, formes, actes d’hospitalité qui s’y inventent». Le PEROU a par exemple échaffaudé au cœur de la jungle de Calais divers institutions comme le Palais, dédié à Yvette, l'ambassade du PEROU, dédié à l'hospitalité, Il y publie de faux journaux, et procède à un "relevé des actes d'hostpitalité". Toutes ces actions et inscriptions sont pour Sebastien Thiery des REQUALIFICATION et des REPUBLICATIONS. Les bidonvilles sont des écritures qui légifèrent en silence. Le PEROU enquête, collecte, procède à des relevés, et produit à son tour des écritures dissidentes (aux écritures assassines de l'ETAT).
+
+Camille Louis est artiste dramaturge et co-initiatrice du collectif KOM.POST travaillant sur [...]. Son travail se situe au croisement de l'art et de la politique. Elle a notamment produit l'édition _la Jungle et la ville_, sur Médiapart.
+
+Sylvia Fredriksson enfin, travaillait depuis quelques mois aux côté de Claire Dehove sur ce projet intitulé Ambassade des communs, initié en 2014 par WOS / Agence des Hypothèses dans le cadre du programme Nouveaux Commanditaires, programme de financement de la ville de Bordeaux de type projet participatif. L'agence des hypothèses porte une politique des usages conduisant à des dispositifs matérialisés – architectures utopiques, campements, zones de gratuité instituées ou sauvages.
+L'ambassade des communs se pense comme une institution fictive, installée physiquement dans un hall de la maison des arts de Bordeaux Montaigne. Le projet cherchait à revitaliser un lieu en mobilisant les désirs et autres modalités d’appropriation d’un groupe, en créant les conditions de la convivialité et du partage du lieu dans les meilleures conditions possibles.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/vitrailOriginal.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/ps-pmp-institutionsfictionnelles.png" data-background-size="cover"-->
 
-source image: _introduction au feuilleton collectif Général Instin_ sur remue.net
 
-<!-- .element: class="source" -->
+> \> À l’origine de ce groupe, une intuition, portée par les organisateurs de Publishing Sphere, que nous (Camille, Général Instin, Éric, Érik, Nathalie, Patrick, Sébastien, Sylvia) pouvions nous réunir pour nous saisir des enjeux qui touchent aux “communs” et aux “configurations urbaines dans les marges”.
 
-===
 
-Sa tombe, au cimetière de Montparnasse, est ornée d'un vitrail sur lequel le portrait photographique du défunt - sa mémoire - est lui-même en train de se décomposer, de disparaître.
+<!-- .element: style="background-color:#222;font-size:0.8em;padding:2em" -->
+<!-- .element class="fragment" data-fragment-index="2" -->
 
-En 1997, la photographe Juliette Soubrier saisit plusieurs clichés de ce portrait fantomatique.
+Source : Note d'intention (Sylvia)  
+http://notes.ecrituresnumeriques.ca/qRg-hdGxS9e7sF9Fo3eSSQ.html
 
-La même année, l'écrivain Patrick Chatelier reprend cette photo pour la proposer comme contrainte créative lors d'une soirée de performance au squat artistique de la Grange aux belles (Paris).
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/revueGeste.png" data-background-size="contain"-->
-
-source image: revue-geste.fr  <!-- .element: class="source" -->
+<!-- .element: style="background-color:#222;font-size:0.7em;" -->
+<!-- .element class="fragment" data-fragment-index="2" -->
 
 ===
-Cette photo du Général va fortement inspirer les artistes présents, et marquer le début d'un collectif relativement informel (bien que très pro-actif), qui donnera lieu à quelques publications papier et à plusieurs ateliers littéraires (selon une formule là aussi +/- formelle).
 
-Entre temps, Hinstin a déjà perdu son "H" qui l'élevait en personnage historique, pour devenir un matériau narratif, plastique, sémiotique. Le voilà devenu Général Instin, aussi abrégé GI.
+Publiée sur le mur du groupe, la note d'intention produite par Sylvia précise :
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/item-026.png" data-background-size="contain" -->
+> À l’origine de ce groupe, une intuition, portée par les organisateurs de Publishing Sphere, que nous (Camille, Général Instin, Éric, Érik, Nathalie, Patrick, Sébastien, Sylvia) pouvions nous réunir pour nous saisir des enjeux qui touchent aux “communs” et aux “configurations urbaines dans les marges”.
 
-source image: remue.net
-
-<!-- .element: class="source" -->
-===
-
-GI insvestit rapidement la plateforme Remue.net, qui va jouer un rôle d'agrégateur et de centralisateur de la plupart des productions consacrées à Instin : poèmes, récits, réflexions, images, vidéos et enregistrements (car le projet GI célèbre aussi l'oralité, la performance, la voix, renouant là encore avec d'anciennes traditions littéraires).
-
-Désormais, GI a pris racine dans l'hypertexte, et commence à hanter le web.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/item-036.png" data-background-size="contain" -->
-
-source image: generalinstin.net  <!-- .element: class="source" -->
-
-===
-Ainsi, il se permet des incursions sur d'autres plateformes, à travers certaines expériences, que nous avons nommés Spin-off, et qui gagnent leur autonomie
+Toutes ces initiatives, tous ces projets constituaient des horizons de pratiques et de pensées qui nous laissaient présager une rencontre extrêmement porteuse et productive, tant chacun semblait rompu à l'accueil, au partage et une sensibilité au collectif, que ce soit dans les processus ou dans les finalités produites.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/toutesLesImages.png" -->
+![ps-kesestilpasse](img/ps-kesestilpasse.png)
+
+<!-- .element style="font-size:1em;width:40%;float:left;margin:3em 1em 0 0" -->
+
+> \> Au regard de positions si proches et lointaines, une conversation préalable semblait nécessaire avant d’envisager une forme d’action, d’écriture et de publication.
+>
+> [...]
+>
+> \> Cette seconde phase de la conversation [annnotation mutuelle] ne s’est passée qu’à la marge, au profit d’un débat en présence.
+>
+> \> Au fil des dissensus, nous avons tenté d’identifier des protocoles d’action susceptibles d’être mise en œuvre dans le temps de l’évenement.
+
+<!-- .element style="font-size:0.7em;width:50%;float:left" -->
+
+Source : Notes du 25 mai - Qu'est ce qui s'est passé ces deux derniers jours  
+http://notes.ecrituresnumeriques.ca/bJ1f1lNVQn-YinY6x-3GrQ.html
+
+<!-- .element style="font-size:0.7em" -->
+
 
 ===
-Les productions reliées au GI contiennent un aspect intermédial très fort, avec une production iconographique importante et foisonnante, mais aussi des captations sonores et vidéos.
 
+Et pourtant, dans ce groupe précisemment, rien ne s'est passé comme prévu. En pratique, nous avons passé trois jours à discuter sans réussir à faire émerger le moindre consensus d'action collective entre les participants. Voyant les différentes impasses dans lesquelles le groupe s'embourbait, nous avons tenté de mettre en place plusieurs dispositifs d'échange et de conversation, conversation synchrone et conversation asynchrone.
+
+Pour ma part, rompu à différentes expériences de collaboration, sur des projets très court terme, comme des hackathon de quelques jours, ou plus long terme, Je me suis retrouvé dans un groupe incapable de se parler, malgré les efforts des uns et des autres. Dans la documentation que je rédigeais à la fin de seconde journée dans un post intitulé «Qu'est ce qui s'est passé ces deux derniers jours», j'écrivais :
+
+> Au regard de positions si proches et lointaines, une conversation préalable semblait nécessaire avant d’envisager une forme d’action, d’écriture et de publication.
+>
+> [...]
+>
+> Cette seconde phase de la conversation [annnotation mutuelle] ne s’est passée qu’à la marge, au profit d’un débat en présence.
+>
+> Au fil des dissensus, nous avons tenté d’identifier des protocoles d’action susceptibles d’être mise en œuvre dans le temps de l’évenement.
+
+Rien de collectif n'est véritablement sorti de notre groupe de travail.
+
+J'essaie aujourd'hui de comprendre ce qui a échoué ? De quoi cet échec (très relatif, nous le verrons en conclusion) est il le symptome ? Est ce l'échec du méta dispositif de la Publishing Sphere, ces trois jours d'ateliers en groupe ? Est ce l'échec de personnalités irréconciliable ? Et finalement, est-ce vraiment un échec ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/instinPapier.png" -->
+
+![ps-notes24mai-ecritureindividuelle](img/ps-notes24mai-ecritureindividuelle.png)
+
+<!-- .element style="font-size:1em;width:40%;float:left;margin:0 1em 0 0" -->
+
+
+> \> En étudiant le Général Instin avec Servanne Monjour, nous avions identifié dans ce “collectif en train de s’écrire” une manière de faire collectif par l’écriture.
+>
+> [...]
+>
+> \> Le lien à la Publishing Sphere est alors une réinvention des formes de publications et d’écriture, et ses effets sur le monde ou sur les terrains où se produisent ces écritures. j’y vois une production d’espace, qui peut être aussi une réinvention d’un espace public. Publier, ou rendre public, peut constituer une production d’espace. Le GI nous inspire une certaine forme d’espace, dans lequel peut se constituer un espace public.
+
+<!-- .element style="font-size:0.6em;width:50%;float:left" -->
+
+Source : Notes du 24 mai - temps d'écriture individuel   
+http://notes.ecrituresnumeriques.ca/1jSmmzxnQ5i8RTc8Bl2oIQ.html#nicolas
+
+<!-- .element style="font-size:0.7em" -->
 
 ===
-Enfin, depuis 2016, Instin est devenu une figure auctoriale à part entière. Le Général Instin signe ainsi trois ouvrages aux Éditions Le Nouvel Attila, ce qui lui permet au passage de renouer avec le modèle éditorial imprimé.
+Pourtant, on y voyait assez clair avec Sylvia en composant le groupe : Dans une tentative de clarification, partagée sur le pad du groupe, j'écrivais :
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/corpusFantome.png" -->
+> En étudiant le Général Instin avec Servanne Monjour, nous avions identifié dans ce “collectif en train de s’écrire” une manière de faire collectif par l’écriture. J’y vois, de manière très intuitive (seulement), une source d’inspiration pour d’autres communautés, qu’elles soient investies sur des terrains sociaux, politiques, littéraires, pour produire des connaissances. En s’émancipant des canaux traditionnels de publication, le GI en vient à réinventer l’acte de publication. C’est ce que Lionel Ruffel a appelé la littérature brouhaha. Avec le GI, l’enjeu n’est pas tant cette production de connaissances qu’une circulation continue, fluide, s’incarnant dans la réécriture, l’emprunt, l’interprétation. Ce qui semble avoir fonctionné avec le GI depuis une vingtaine d’année, c’est cette circulation des écritures dont le résultat évident est une manière de «faire collectif».
 
-source image: _lexique généraliste_ sur remue.net
+> Le lien à la Publishing Sphere est alors une réinvention des formes de publications et d’écriture, et ses effets sur le monde ou sur les terrains où se produisent ces écritures. j’y vois une production d’espace, qui peut être aussi une réinvention d’un espace public. Publier, ou rendre public, peut constituer une production d’espace. Le GI nous inspire une certaine forme d’espace, dans lequel peut se constituer un espace public. [source: http://notes.ecrituresnumeriques.ca/1jSmmzxnQ5i8RTc8Bl2oIQ.html#nicolas]
 
-<!-- .element: class="source" -->
+Alors je vous propose maintenant de revenir un peu en arrière, et de regarder l'analyse qu'on faisait du GI deux ans plus tôt.
 
-===
-Général Instin est donc un corpus fantôme.
-La métaphore peut sembler facile pour parler d'une figure elle-même spectrale, mais elle est revendiquée par le collectif.
+---
 
-[CITER]
-
-Cette expression évoque l'un de nos principaux défis, car par sa nature processuelle, une partie de notre corpus semble toujours un peu sur le point de se dérober, voire sur le point de disparaître, tout en continuant de se construire en même temps que nous l'étudions.
+>  >  Notre intérêt pour le projet Général Instin provient d’une intuition : Instin serait un cas d’étude idéal pour comprendre les formes et les pratiques littéraires contemporaines. La multiplicité comme l’hétérogénéité des médias et des formes d’expression croisés qui sont à l’œuvre dans le projet semblent suggérer un nouveau mode de publication littéraire (le terme « publication » étant compris au sens de « rendre public »). L’écriture littéraire, en ce sens, se conçoit autant à travers une communauté de contributeurs qu’une collection de médias. L’acte de publication, s’il perd une part de l’autorité que lui conférait les institutions littéraires, regagne en vitalité, en diversité et en circulation. La publication se libère de son carcan institutionnel, s’autonomise par rapport à lui et s’autorise. La mise en circulation se suffit à elle-même, valorisée par les nouvelles dynamiques qu’elle génère, jusqu’à ré-irriguer au passage les circuits traditionnels comme on peut le voir avec les « spins-of » de GI.1 […] De même qu’Instin constitue intuitivement un cas d’étude idéal de littérature contemporaine, il pourrait nous éclairer sur la nature d’un environnement-dispositif ouvert à toute forme d’appropriation et de réécriture du Général. (http://nicolassauret.net/behindinstin/2017/04/11/questions-de-recherche.html)
 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/oeil.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-### Problématiques
-
-* (ontologique) Qu'est-ce qu'Instin ? Pourquoi Instin ?
-* (épistémologique) Comment étudier Instin ? Influence de/sur l'objet ?
-
-===
-
-Au regard d'un tel corpus, notre question première était orientée sur un plan ontologique  : Qu'est ce qu'instin exactement ? que dit il de la littérature contemporaine, que dit il de notre époque, plongée et façonnée par la culture numérique ?
-
-Mais, au-delà de ces questions ontologiques, a rapidement émergé la question épistémologique de ce que nous étions en train de faire, dans une démarche auto-réflexive, récursive, tout à fait fertile puisque venant en miroir éclairer la question ontologique.
-
-<!-- Une chose est sûre : il faut déjà croire un peu aux fantômes pour s'occuper de cet objet littéraire dont nous avons entrepris l'archivage - une façon comme une autre d'en performer à notre tour la disparition. -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/sp38.png" -->
-
-# Instin Studies
-
-source image: _STREET-ART CAMPAGNE INSTIN_ sur sp38.com
-
-<!-- .element: class="source" -->
-
-===
-Ainsi sont nées les _Instin Studies_
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/mashupInstin.png" -->
-<!-- .slide: class="hover"-->
-
-### L'éditorialisation comme méthodologie littéraire
-
-* Recherche, collecte et indexation du corpus
-* Chaîne d'archivage, encodage et édition
-* Exploration des données
-* Réflexion épistémologique sur le projet
-
-===
-
-Parce que ce corpus était dispersé sur la toile, nous avons choisi de l'éditorialiser, dans un même geste de collecte, d'indexation et de publication, non pas pour le maîtriser, mais pour en comprendre les rouages et les circulations internes..
-
-nous avons procédé de manière très organique, en élaborant la méthodologie progressivement, et de manière itérative en fonction des éléments que nous mettions à jour.
-
-Ce que nous appelons de manière affectueuse, les Instin Studies, ont consistées en 4 tâches distinctes :
-1. la recherche, la collection et l'indexation du corpus
-2. l'implémentation d'une chaine de traitement pour encoder, archiver et éditorialiser le corpus
-3. l'exploration et l'analyse des données récoltées
-4. une réflexion continue, dont les axes se sont détachés et éclaircis progressivement.
-
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/archive.png" -->
-<!-- .slide: class="hover"-->
-
-### Éditorialiser l'archive GI
-
-Double dynamique :
-  * ouverture et continuité : rendre l'archive publique et appropriable
-  * réflexivité : que nous dit le design de l'archive sur le dispositif GI lui-même
-
-===
-
-En effet, l'enjeu épistémologique du projet ne se joue pas simplement dans l'archivage d'instin, mais dans l'éditorialisation de l'archive, et dans l'espace produit par cette éditorialisation,
-
-qui nous inscrit dans une double dynamique :
-
-1. Premièrement, en ouvrant l'archive au public, aux communautés de chercheurs et d'auteurs, nous nous inscrivons dans la continuité de l'esprit Instin, dont une des pierres angulaires est l'appropriation. L'archive vient donc à la fois refléter le GI, mais aussi l'étendre, le remettre en mouvement et générer potentiellement de nouvelles écritures.  L'ouverture et la continuité, qui caractérisent l'éditorialisation, s'appliquent pleinement dans notre démarche.
-  * ce qui nous fait poser la question : sommes nous certains que toute cette production scientifique soit bien un épiphénomène lié à instin, ou bien au contraire, est ce qu'elle y participe directement ? peut-être est-on en train de produire sur la matrice GI, sans nous être vraiment extraits de sa rhétorique.
-2. [slide suivante]
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/1-12.jpg" data-background-size="contain" -->
 
 ### INSTIN
@@ -222,49 +260,10 @@ source image: _Un homme parle –Autopsie de l’esprit_ sur remue.net
 
 <!-- .element: class="source" -->
 
-
 ===
+Je raccroche ici les wagons avec ce que Servanne vous a présenté ce matin, en vous présentant ce qu'on avait appelé les instin studies, dans une tentative, vaine sans doute, de bien se démarquer du corpus instin lui-même.
 
-2. deuxièment, l'éditorialisation de l'archive nous renvoie à une dynamique de réflexivité car le design même de notre archive, ce dispositif d'éditorialisation, ou encore cet espace _Instin Studies_, nous dit des choses du dispositif Instin, de son espace ou encore de son milieu. Et c'est pourquoi l'archive et son éditorialisation n'est pas l'aboutissement du projet, mais peut-être le commencement d'une réponse sur ce qu'est le dispositif Instin, comment il procède, ou plutôt en tant que fait littéraire, comment il performe le réel.
-
-Ce pari est celui d’un dialogue entre le dispositif de publication littéraire du GI et le dispositif d’une archive scientifique. Un dialogue tout en tension, en contradiction aussi (tant la normalisation des instances apparaissait presque impossible), mais dont la démarche fait sens pour considérer l’archive non pas comme une tentative de totalisation de GI, mais plutôt de projection en miroir, elle-même excroissance du projet.
-
-Instin travaille notre archive, comme l'archive travaille Instin, et ces deux performativités produisent deux espaces distincts.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
-<!-- .slide: class="hover"-->
-
-### Théorie de l'éditorialisation
-
-**Enjeu** - décrire les processus de production, de circulation et de légitimation de la littérature à l'ère numérique.
-
-**Fonction** - production d'espace
-
->«L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.»
->
-> Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
-
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
-
-
-===
-À ce stade, un petit aparté sur l'éditorialisation est nécessaire :
-
-Le terme émerge autour de 2004, notamment au détour des travaux de Bruno Bachimont. Il s'institutionnalise à partir de 2008 avec un séminaire qui lui sera consacré jusqu'à aujourd'hui, tirant le concept vers une dimension plus large et plus culturelle. En 2016, Marcello Vitali Rosati propose une première définition formelle, et l'inscrit dans une théorie dont la portée est bien plus générale et philosophique que ses premiers usages.
-
-Il désigne par éditorialisation le processus résultant des interactions entre des contenus, un environnement technique, des structures et des formats, mais aussi des pratiques d'écriture et de lecture, et décrit ce processus comme ouvert, dynamique, performatif, transformant radicalement les structures de l'autorité.
-
-Appliquée à la littérature et en particulier à la littérature numérique, l'éditorialisation peut ainsi prétendre à la description (et la compréhension) des processus de production, de circulation et de légitimation de la littérature à l'ère numérique.
-
-Autrement dit, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture, de société et d'espace.
-
-Dans cet article de 2016, «l'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier».
-
-En produisant l'espace, l'éditorialisation participe à la production du réel.
-
-<!-- C'est là que le concept peut apporter beaucoup à la réflexion littéraire, en réinvestissant notamment une problématique qui lui est inhérente: celle de la mimésis, de la distinction entre imaginaire-réel, celle de son statut ontologique, de sa fonction et de son pouvoir effectif. -->
+En adoptant l'éditorialisation comme méthodologie littéraire, nous cherchions nous même à structurer un espace pour comprendre la structuration de l'espace Instin. Approche réflexive sur notre archive en gestation, pour faire dialoguer le dispositif de publication littéraire du GI, et le dispositif d'une archive scientifique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -285,7 +284,7 @@ source image: _Général Instin_ sur facebook.com
 
 ===
 
-Mais revenons au général. S'il y a un espace Instin, quel dispositif serait susceptible d'agencer ce corpus indéfinissable, multi-forme, presque insaisissable, comme la photo originelle du vitrail ?
+Mais alors quel est cet espace Instin ? Quel est le dispositif d'écriture, de publication et d'éditorialisation qui régit l'agencement d'un tel corpus indéfinissable, multi-forme, presque insaisissable, comme la photo originelle du vitrail ?
 Quelles seraient les structures d'autorité d'un tel projet ?
 
 Les instigateurs du projet aiment à le rappeler (presque comme un discours d'accompagnement):
@@ -296,58 +295,6 @@ Manifestement, le Général Instin, en tant que production collective au long co
 
 Mais alors quel ressort a permis au GI d'être si productif pendant une vingtaine d'années ?
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/rosecompas_grand.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-### De Hinstin à Instin
-
-* Une contrainte créative
-* Un projet collectif
-* Un personnage de fiction
-* Un profil sur le web
-* Une figure auctoriale
-
-source image: _La place du mort_ sur remue.net
-
-<!-- .element: class="source" -->
-
-===
-
-Première réponse: le critère d'appropriabilité, qui repose en fait sur un dispositif littéraire bien connu: l'écriture à contrainte.
-
-À propos de la genèse d'Instin au squat de la Grange-aux-Belles, Patrick Chatelier témoigne : « J’ai montré les photos, j’ai un peu personnifié le général et je me suis aperçu que les artistes présents s’en emparaient pour en faire leur propre chose. C’est là que c’est devenu collectif. ».
-
-C'est à ce moment aussi que Hinstin perd son « H qui le faisait humain historique » pour opérer ce passage vers la fiction et devenir personnage-entité. Tout le monde peut s’approprier cet « ancêtre universel » pour lui inventer une histoire et lui donner une seconde vie. Instin est en libre-accès, et même en libre-service.
-
-Instin incarne ainsi des tendances ou des traits saillants des nouvelles pratiques d'écriture à l'ère numérique :
-- une forte tendance à l'appropriation, et son corollaire :
-- une ouverture du concept d'autorité
-- un déplacement - ou en tout cas, une revalorisation d'une écriture qui se déploie hors du livre.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/editionInstin.jpg" -->
-<!-- .slide: class="hover"-->
-
-### Un modèle hors-livre
-
-* Rupture avec les institutions éditoriales traditionnelles
-* Dissémination sur plusieurs supports/plateformes
-* Occupation de l'espace public
-
-source image: _Général Instin_ sur facebook.com
-
-<!-- .element: class="source" -->
-
-===
-
-C'est sans doute une caractéristique les plus intéressante du projet GI : il se conçoit principalement dans un "hors-livre", en rupture avec notre modèle éditorial moderne.
-
-Depuis le squat de la Grange aux belles, Instin s'est toujours inscrit à la marge - des institutions littéraires ou éditoriales traditionnelles.
-
-Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plusieurs plateformes, via des médias différents. Qu'il s'affiche sur les murs de nos rues ou sur le web, Instin occupe l'espace public.
-<!-- - en même temps qu'il participe à redéfinir l'espace public à l'ère numérique. -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -374,18 +321,6 @@ Beaudouin, V. (2012). Trajectoires et réseau des écrivains sur le Web: Constru
 
 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/instin_1_redimensionnee-2.jpg" data-background-size="cover" -->
-
-### Mar[GI]nalité
-
-source image: _Il est passé par ici. Il repassera par là. (1)_ sur Remue.net
-
-<!-- .element: class="source" -->
-
-===
-
-De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement du web, en passant par le détournement des réseaux sociaux, nous pensons qu'il y a là une même stratégie d'occupation des marges et de détournement des institutions, qui est essentiel pour comprendre les mutations qui affectent la notion même de littérature - et qui sont en fait une célébration de la Littérature (de la voix, de la lettre, de la création).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
@@ -395,11 +330,9 @@ De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement d
 
 > « Publier » retourne à son sens originel : rendre public, passer de l’expression privée destinée à des correspondants précis à l’expression pour des publics de plus en plus divers.
 >
-> [C]ette multitude d’espaces publics caractérise le moment contemporain de la littérature, comme la sphère publique de la Littérature caractérisait sa représentation moderne. Si ces espaces publics ont toujours existé, même lorsqu’on les mettait sous silence, jamais ils n’ont été aussi nombreux et visibles […] si bien que le littéraire aujourd’hui apparaît en très grande partie comme une arène conflictuelle composée d’une sphère publique hégémonique reposant sur l’imprimé et d’une multitude d’espaces publics contre-hégémoniques relevant plutôt d’une « littérature-brouhaha » (exposée, performée, in situ, multi-support) avec de très nombreuses circulations entre eux. »
->
 > Lionel Ruffel, _Brouhaha, Les Mondes du contemporain_
 
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+<!-- .element: style="font-size:0.8em; text-align:justify" -->
 
 ===
 
@@ -411,7 +344,7 @@ L'idée n'est pas de dire que GI est "nouveau" et révolutionne la littérature 
 Au contraire, on a un retour à une certaine conception de la littérature.
 Dans ses travaux sur l'oralité, Zumthor avait bien montré que le passage vers une culture de l'écrit avait marqué le début d'une distance que l’homme prenait envers lui-même, son éloignement de son propre corps: "Un art qui reposait sur des techniques d’assemblage, de combinaison, de collage, sans souci d’authentification des parties, recule et cède assez vite le terrain à un art nouveau, qu’anime une volonté de singularisation. La théâtralité généralisée de la vie publique commence à s’estomper, et l’espace se privatise."
 
-C'est justement contre cette privatisation que semble oeuvrer Instin, en renouant avec la poésie au sens étymologique (un _faire_).
+C'est justement contre cette privatisation que semble œuvrer Instin, en renouant avec la poésie au sens étymologique (un _faire_).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/sp38.png" -->
@@ -530,39 +463,6 @@ Dans ces réseaux d'échange, ces «réseaux d'intelligence», qu'ils soient ép
 
 En implémentant l'écriture comme mouvement dynamique, les pratiques conversationnelles sont une piste à explorer pour renouveler les processus de fabrication du sens que sont la mémoire, l'imaginaire, et l'interprétation, qui d'après Derrida vont toujours ensemble.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/6_feuilles.jpg" data-background-size="cover" -->
-
-## Conclusion
-
-source image: _Il est passé par ici. Il repassera par là. (2)_ sur Remue.net
-
-<!-- .element: class="source" -->
-
-===
-Qu'est ce que nous dit cette littérature :
-  - qui s'est émancipée des formes éditoriales et des canaux de légitimation traditionels ?
-  - qui assume son obsolescence ? complexifiant au passage les travaux d'archivage, de catégorisation, d'institutionnalisation
-  - qui réinvente et se réapproprie l'acte de publication ?
-  - qui, par cet acte, construit de nouveaux espaces publics
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="./img/mashupInstin.png" -->
-<!-- .slide: class="hover"-->
-
-### Éditorialisation et littérature
-
->«Le fait de penser le geste de production des contenus numériques comme un geste de production de l’espace nous permet justement d’aller au-delà de l’opposition imaginaire/réel. Les pratiques, les discours et les technologies impliquées dans un geste d’éditorialisation ont comme résultat l’agencement d’un espace tout à fait réel, à savoir l’espace dans lequel nous vivons.»
->
-> Monjour, Vitali-Rosati, Wormser, _Le fait littéraire au temps du numérique. Pour une ontologie de l'imaginaire_, 2016.
-
-<!-- .element: style="font-size:1.8rem; text-align:justify" -->
-
-
-===
-Elle confirme la nécessité de requalifier le fait littéraire à l'ère du numérique, comme l'ont pu faire Monjour, Vitali Rosati et Wormser dans cet article : Le fait littéraire au temps du numérique : Pour une ontologie de l’imaginaire (déc 2016, Sens-public.org/article1224.html).
-dans lequel les auteurs nous invitent à penser «la littérature numérique comme un dispositif d'éditorialisation du monde», et compte tenu du caractère spatial de l'éditorialisation, à voir dans la littérature «l’un des matériaux architecturaux dont le réel est bâti».
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/lundimatin_instin.png" data-background-size="contain" -->
@@ -574,13 +474,205 @@ source image: _Général Instin_ sur facebook.com
 <!-- .element: class="source" -->
 
 ===
-Tout cela nous incite à penser que la valeur de cette littérature n'est plus à rechercher entièrement dans sa littérarité, mais dans ce qu'elle explore en terme d'espace public, de collectif, ...de commun aussi, puisqu'une réponse à l'urgence de notre temps se trouve justement là.
+Tout cela nous incite à penser que la valeur de cette littérature n'est plus à rechercher entièrement dans sa littérarité, mais dans ce qu'elle explore en terme d'espace public, de collectif, ...de commun aussi.
 
-On rejoint ici Henry Jenkins qui voit dans la culture participative des nouvelles formes narratives, des potentiels de créativité, mais y voit surtout de nouvelles formes d'organisation sociales et l'ouverture de possibles politiques.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Ces «écrivains du présent», comme s'auto-qualifie Arnaud Maisetti, sont aussi certainement des écrivains du futur, pavant la voie vers des formes de collectif et de sociétés, vers des formes d'expression, d'échanges et de conversation dont les institutions académiques feraient bien de s'inspirer.
+# «Paradigme !»
 
-En attendant, notez que la toute dernière manifestation du Général Instin est à lire comme feuilleton de l'été sur le média lundimatin, sans trop savoir si c'est une promotion ou une capitulation...
+===
+
+C'est en quelque sorte ce que nous poursuivions sans jamais vraiment l'attraper dans notre groupe sur l'institution fictionnelle.
+
+Car ce que le GI nous apprend c'est que le processus d'institutionnalisation est ailleurs, et surtout est autre. Il ne repose plus sur les structures traditionnelles, il se fait par l'écriture certes, mais dans une perpétuelle réécriture des structures, autrement dit dans un processus continue, dont la finalité n'est plus l'institution, mais le _faire collectif_..
+
+Instin performe ainsi un autre mode d'existence de l'institution. Cette proposition institutionnelle alternative est effectivement le point de départ de chacun des participants au groupe.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+![chatelier_diplomatiefantome](img/chatelier-diplomatiefantome.png)
+
+<!-- .element style="width:65%;" -->
+
+![chatelier-diplomatiefantome](img/chatelier-diplomatiefantome2.png)
+
+<!-- .element style="width:65%;float:left" -->
+
+Source : Diplomatie fantômnale (Patrick Chatelier)
+
+<!-- .element style="margin-top:2em;font-size:0.8em" -->
+
+===
+Patrick intervient 2 fois, une fois en jouant le jeu de la présentation du groupe à la fin des trois jours d'atelier. Son écriture témoigne d'un effort certain pour intégrer les différents éléments apportés par chaque participant du groupe. Dans cette première performance, il propose le récit d'une diplomatie fantomatique où se rencontrent une délégation d'humain avec celle des fantômes, supposée établir un dialogue entre humains et non-humains. M'intercalant dans cette performance, j'avais inscrit dans ce récit une série de fausses citations issues des vraies conversations du groupe. La prise de note initiale servant de matériau pour réécrire une série d'aphorismes et de maximes qui teintent le premier récit d'injonctions extraites de la prise de note du groupe et reformulées de manière dramatique.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+![Patrick Chatelier lors de sa performance «Général à vendre» (25/05/2019)](img/20190525_204508-patrickChatelier-publishingSphere.jpg)
+
+<!-- .element style="width:40%;float:left" -->
+
+![Général à vendre sur Remue.net](img/general-a-vendre-sur-remue-net.png)
+
+<!-- .element style="width:58%;float:left" -->
+
+&nbsp;
+
+_Une nouvelle « éditorialisation » du spectre militaro-artistique GI Général Instin, composition sentimentale d’archives à travers des siècles d’activisme_
+
+<!-- .element style="font-size:0.8em" -->
+
+===
+
+Une seconde fois dans une performance solo, intitulée «Général à vendre» [Photo performance], et dont un enregistrement est disponible sur Remue.net, avec la légende suivante "Une nouvelle « éditorialisation » du spectre militaro-artistique GI Général Instin, composition sentimentale d’archives à travers des siècles d’activisme.".
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+> GI fut résumé ainsi : prendre acte, faire geste&nbsp;; prendre acte des gestes faits, faire geste des actes pris. Dans une perpétuelle revenance entre moi et nous, intime-extime, réel-fiction, marge-centre.
+
+<!-- .element style="font-size:0.8em;padding:1em" -->
+
+&nbsp;
+
+Source : _Général à vendre_  
+https://remue.net/patrick-chatelier-general-a-vendre
+
+<!-- .element style="font-size:0.8em" -->
+
+===
+Dans ce texte, Patrick Chatelier retrace l'histoire du GI et du collectif Instin, construisant son propos sur une série d'images et de son. En empruntant un texte plus ancien, il déclare :
+
+> GI fut résumé ainsi : prendre acte, faire geste&nbsp;; prendre acte des gestes faits, faire geste des actes pris. Dans une perpetuelle revenance entre moi et nous, intime-extime, réel-fiction, marge-centre.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+> le GI se veut potentiellement partout. Reconfiguré, recyclé, détourné. Mégalomanie décalcomaniaque. Sans pourtant être démiurge, créateur, auteur, plutôt assembleur.
+
+<!-- .element style="font-size:0.8em;padding:1em" -->
+
+&nbsp;
+
+Source : _Général à vendre_  
+https://remue.net/patrick-chatelier-general-a-vendre
+
+<!-- .element style="font-size:0.8em" -->
+
+===
+
+Il invente un terme pour l'occasion, le mot _instiner_, qui semble vouloir désigner l'acte d'éditer, de faire geste d'écriture et d'édition. On comprend dans ce terme que les _instiniens_ sont en fait des _instineurs_. Ils n'appartiennent pas à une communauté, il la font.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![ps-tweetCollectif](img/ps-tweetcollectif.png)
+
+===
+
+Son interprétation du GI est très clair. Le GI n'est pas un collectif, c'est une interface entre les individus qui s'en emparent et le collectif. La finalité du GI est donc bien selon ses termes de «faire collectif». Le GI est alors ce mouvement, «mouvement de collectivité des individus» comme il l'appelle.
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+> Les œuvres collectives, collaboratives ou plurielles sont entourées d’un flou juridique mais aussi conceptuel.
+>
+> Cet impensé a posé un sérieux problème aux Nouveaux commanditaires eux-mêmes et à la Fondation de France par définition. Qui est auteur de quoi ? Les idées circulent et sont reprises en permanence. Les promotions d’étudiants se succèdent, des intervenants extérieurs sont invités et mobilisés au plan théorique.
+>
+> J’estime que l’Ambassade des communs est une œuvre globale dont le corps est une co-existence et se co-définit à long terme.
+
+<!-- .element style="font-size:0.7em;" -->
+
+Source : _Ambassade des communs_ - entretien avec Claire Dehove  
+https://via.hypothes.is/https://stylo.ecrituresnumeriques.ca/api/v1/htmlArticle/5c76998ebe99eb0011878b36?preview=true#co-autorat
+
+<!-- .element style="font-size:0.7em" -->
+
+===
+
+Or, on retrouve cette même idée du collectif dans l'analyse que Claire dehove fait de son projet l'ambassade des communs.
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+> À chaque projet, à chaque institution fictive correspond son corpus d’anarchives. Pourquoi anarchives ? Parce que ce sont des archives qui sont constituées de manière anarchique et dans le temps, et par toute personne qui veut y contribuer, sur n’importe quel support et sous n’importe quelle forme.
+
+<!-- .element style="font-size:0.8em;width:47%;float:left;margin-right:1em" -->
+
+  > L’ambassade, en tant qu’œuvre, peut mourir d’elle-même, comme elle peut aussi être revivifiée en étant portée par exemple par une association étudiante. Tout peut arriver. En tout cas, cela appartient à ceux qui en sont les usagers.
+
+<!-- .element style="font-size:0.8em;width:47%;float:left;margin-top:2.5em;" -->
+
+&nbsp;
+
+Source : _Ambassade des communs_ - entretien avec Claire Dehove  
+
+<!-- .element style="font-size:0.7em;" -->
+
+===
+
+On retrouve également ce paradigme dans la constitution des archives de ces institutions fictionnelles :
+
+> À chaque projet, à chaque institution fictive correspond son corpus d’anarchives. Pourquoi anarchives ? Parce que ce sont des archives qui sont constituées de manière anarchique et dans le temps, et par toute personne qui veut y contribuer, sur n’importe quel support et sous n’importe quelle forme.
+
+Il y a donc dans l'idée d'une institution fictive telle que l'Ambassade des communs, une vision particulière de l'institution.
+
+> L’ambassade, en tant qu’œuvre, peut mourir d’elle-même, comme elle peut aussi être revivifiée en étant portée par exemple par une association étudiante. Tout peut arriver. En tout cas, cela appartient à ceux qui en sont les usagers.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="https://codimd.s3.shivering-isles.com/demo/uploads/upload_b428b4de4e51281979a60a520e3ef9ea.JPG" data-background-size="contain" -->
+
+
+===
+
+Enfin, du côté du PEROU et de la manière dont Sebastien Thiery décrit ses actions dans la jungle de Calais ou ailleurs, il y a cette posture plus activiste consistant à faire de la création institutionnelle.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="https://codimd.s3.shivering-isles.com/demo/uploads/upload_b428b4de4e51281979a60a520e3ef9ea.JPG" data-background-size="contain" -->
+
+![ps-republierlemonde](img/ps-republierlemonde.png)
+
+<!-- .element style="font-size:1em;width:35%;float:left;margin:0 1em 0 0" -->
+
+
+> **Création institutionnelle** Une commune, 36000 fois institué Pourquoi ne reprenons pas les chemins de ces créations ? Reinstaurer l’institution pour les déborder, interroger les modes d’existences
+>
+> Les forces d’agissement de ces institutions sont leur puissance poétique. Opposer des poésies à d’autres poésies.
+>
+> **Fictions institutionnelles**
+>
+> Qu’est-ce qui fait tenir un état, une commune. Reconnaître que ce sont des matériaux poétiques et fictionnels. Il faut le prendre en compte, et alors ca nous permet de travailler autrement, en relation avec tous ces êtres, pour les reconsidérer.
+>
+> Le PEROU répond à des écritures assassines qui gouvernent. combattre un texte avec d’autres textes.
+
+<!-- .element style="font-size:0.6em;width:60%;float:left;background-color:#222" -->
+
+
+**Source : Notes d’atelier Sébastien Thiéry - Republier le monde**  
+http://notes.ecrituresnumeriques.ca/3D2XP5bjRkuREiZlYW8vkQ.html
+
+<!-- .element style="font-size:0.7em;color:#222" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![instin-ProjeT](img/instin-projet.png)
+
+Source : lexique généraliste  
+http://remue.net/lexique-generaliste
+
+<!-- .element style="font-size:0.7em" -->
+
+===
+Je termine comme, c'est la coutume Servanne, par une citation du lexique généraliste :
+
+«Le projet GI se configure et se développe sur trois niveaux en interdépendances. Il traite d’un personnage fantôme, le général Instin, qui bataille avec sa propre disparition. Il prélève dans les champs du réel et de l’imaginaire des correspondances à ce général premier, reflets, analogies, ou plus exactement fractales. Il est la somme d’écrits, d’images et de gestes artistiques liés à l’ensemble de ces générals, épopée qui à chaque étape se découvre un but légèrement autre.»
+
+«Son but, bien que (parce que) flou et changeant, semble de vouloir créer les conditions d’une révolution du regard.»
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -590,12 +682,15 @@ En attendant, notez que la toute dernière manifestation du Général Instin est
 
 ### Merci !
 
-à suivre sur [nicolassauret.net/behindinstin](http://nicolassauret.net/behindinstin)
+
+&nbsp;
+
+&nbsp;
 
 ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
 
-_Quelle littérature numérique pour demain&nbsp;?_  
-_ELO2018_  - Montréal - 13-17 août 2018
+_Cartographie du web littéraire francophone_  
+Université Lyon 3 - 22-24 janvier 2020
 
 <!-- .element: style="font-size:1.4rem" -->
 

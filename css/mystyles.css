@@ -295,7 +295,8 @@ body {
 }
 
 .reveal h1, .reveal h2, .reveal h3 {
-  color: #E30800;
+  color: #E30800; /*couleur Instin*/
+  color: #D43B3A; /*couleur PS*/
   background-color: ghostwhite;
 }
 
@@ -334,3 +335,6 @@ p.source {
   background-color: #E30800;
 
 }
+
+/* Rouge PS */
+/* color: #D43B3A; */
