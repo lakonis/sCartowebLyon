@@ -31,7 +31,7 @@ Université Lyon 3 - 22-24 janvier 2020
 2. intuition d'une synergie ou chronique d'un échec ?
 3. _Instin Studies_ (rappel)
 4. intersections
-  - Diplomatie fantômnale
+  - Diplomatie fantômale
   - Ambassade des communs
   - Republier le monde
 
@@ -149,7 +149,7 @@ le groupe rassemblait deux membres du Général Instin, Eric Darsan et Patrick C
 
 Sebastien Thiéry, enseignant à École Nationale Supérieure d’Architecture de Paris Malaquais et fondateur du PEROU, le _Pôle d’Exploration des Ressources Urbaines_. Le PEROU est un groupe d'action développant «des recherches-actions sur les confins de nos villes (bidonvilles, jungles, squats, refuges en tout genre) et les gestes, formes, actes d’hospitalité qui s’y inventent». Le PEROU a par exemple échaffaudé au cœur de la jungle de Calais divers institutions comme le Palais, dédié à Yvette, l'ambassade du PEROU, dédié à l'hospitalité, Il y publie de faux journaux, et procède à un "relevé des actes d'hostpitalité". Toutes ces actions et inscriptions sont pour Sebastien Thiery des REQUALIFICATION et des REPUBLICATIONS. Les bidonvilles sont des écritures qui légifèrent en silence. Le PEROU enquête, collecte, procède à des relevés, et produit à son tour des écritures dissidentes (aux écritures assassines de l'ETAT).
 
-Camille Louis est artiste dramaturge et co-initiatrice du collectif KOM.POST travaillant sur [...]. Son travail se situe au croisement de l'art et de la politique. Elle a notamment produit l'édition _la Jungle et la ville_, sur Médiapart.
+Camille Louis est artiste dramaturge et co-initiatrice du collectif KOM.POST. Son travail se situe au croisement de l'art et de la politique. Elle a notamment produit l'édition _la Jungle et la ville_, sur Médiapart.
 
 Sylvia Fredriksson enfin, travaillait depuis quelques mois aux côté de Claire Dehove sur ce projet intitulé Ambassade des communs, initié en 2014 par WOS / Agence des Hypothèses dans le cadre du programme Nouveaux Commanditaires, programme de financement de la ville de Bordeaux de type projet participatif. L'agence des hypothèses porte une politique des usages conduisant à des dispositifs matérialisés – architectures utopiques, campements, zones de gratuité instituées ou sauvages.
 L'ambassade des communs se pense comme une institution fictive, installée physiquement dans un hall de la maison des arts de Bordeaux Montaigne. Le projet cherchait à revitaliser un lieu en mobilisant les désirs et autres modalités d’appropriation d’un groupe, en créant les conditions de la convivialité et du partage du lieu dans les meilleures conditions possibles.
@@ -508,7 +508,7 @@ Instin performe ainsi un autre mode d'existence de l'institution. Cette proposit
 
 <!-- .element style="width:65%;float:left;margin-top:-1em" -->
 
-Source : Micro-récits d’une diplomatie fantômnale (Patrick Chatelier)
+Source : Micro-récits d’une diplomatie fantômale (Patrick Chatelier)
 
 <!-- .element style="margin-top:2em;font-size:0.8em" -->
 
@@ -664,6 +664,18 @@ Enfin, du côté du PEROU et de la manière dont Sebastien Thiery décrit ses ac
 http://notes.ecrituresnumeriques.ca/3D2XP5bjRkuREiZlYW8vkQ.html
 
 <!-- .element style="font-size:0.7em;color:#222" -->
+
+===
+
+> **Création institutionnelle** Une commune, 36000 fois institué Pourquoi ne reprenons pas les chemins de ces créations ? Reinstaurer l’institution pour les déborder, interroger les modes d’existences
+>
+> Les forces d’agissement de ces institutions sont leur puissance poétique. Opposer des poésies à d’autres poésies.
+>
+> **Fictions institutionnelles**
+>
+> Qu’est-ce qui fait tenir un état, une commune. Reconnaître que ce sont des matériaux poétiques et fictionnels. Il faut le prendre en compte, et alors ca nous permet de travailler autrement, en relation avec tous ces êtres, pour les reconsidérer.
+>
+> Le PEROU répond à des écritures assassines qui gouvernent. combattre un texte avec d’autres textes.
 
 
 
