@@ -6,7 +6,7 @@
 
 Nicolas Sauret  
 
-![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
+![logo CRCEN](img/ecrituresnumeriques-logo-black.svg) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
 
 _Cartographie du web littéraire francophone_  
 Université Lyon 3 - 22-24 janvier 2020
@@ -696,7 +696,7 @@ Je termine comme, c'est la coutume Servanne, par une citation du lexique génér
 
 &nbsp;
 
-![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
+![logo CRCEN](img/ecrituresnumeriques-logo-black.svg) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
 
 _Cartographie du web littéraire francophone_  
 Université Lyon 3 - 22-24 janvier 2020
