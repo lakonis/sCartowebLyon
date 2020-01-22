@@ -116,10 +116,10 @@ En incipit, nous avions écrit :
 ===
 Un espace d'écriture donc, très libre et très simple d'utilisation, que chaque groupe était invité à s'approprier, en se créant des pages, des notes, des pads d'écriture, automatiquement éditorialisés et associés à une interface d'annotation permettant ainsi une double production scripturale.
 
-Cette plateforme (j'hésite à appeler ça une plateforme), c'était notre propre expérimentation au sein de la publishing sphere, une sorte de méta-sphere censée offrir un espace non pas centralisant, mais centrifuge, en espérant voir se développer le fameux rizhome.
+<!-- Cette plateforme (j'hésite à appeler ça une plateforme), c'était notre propre expérimentation au sein de la publishing sphere, une sorte de méta-sphere censée offrir un espace non pas centralisant, mais centrifuge, en espérant voir se développer le fameux rizhome.
 
 [Voici ce que cela donne finalement en terme de réseau.]
-[RESEAU de LIEN]
+[RESEAU de LIEN] -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instin-puntaUnion.jpg" data-background-size="cover"-->
@@ -703,8 +703,9 @@ Je termine comme, c'est la coutume Servanne, par une citation du lexique génér
 
 ### Merci !
 
-
 &nbsp;
+
+Présentation : http://nicolassauret.net/sCartowebLyon/
 
 &nbsp;
 
