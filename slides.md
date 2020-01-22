@@ -27,15 +27,21 @@ Université Lyon 3 - 22-24 janvier 2020
 
 ## Sommaire
 
-* introduire la _Publishing Sphere_
-* Intuition d'une synergie ou chronique d'un échec
-* _Instin Studies_ (rappel)
-* Intersections
-  - Patrick Chatelier
+1. introduire la _Publishing Sphere_
+2. intuition d'une synergie ou chronique d'un échec ?
+3. _Instin Studies_ (rappel)
+4. intersections
+  - Diplomatie fantômnale
   - Ambassade des communs
-* ébauche de nouvelles institutions
+  - Republier le monde
 
 ===
+
+Dans cette présentation, je voudrais interroger la question de l'institution, telle que certaines communautés l'investissent, notamment des collectifs littéraires comme le Général Instin que nous avons étudié avec Servanne.
+
+Car les cartographies du web littéraire sont manifestement des tentatives d'institutionnalisation de pratiques littéraires qui échappent encore à notre institution. Or ce web littéraire est peut-être lui-même en train d'inventer ses propres institutions.
+
+Pour ce faire, je vais revenir sur l'évenement Publishing Sphere et le groupe de travail "Institutions fictionnelles", et son échec ?. Puis je reprendrais quelques conclusions de nos études instiniennes avec Servanne, pour mieux comprendre enfin les intersections qui auraient dû se faire dans mon groupe lors de la publishing sphere.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -51,7 +57,7 @@ Université Lyon 3 - 22-24 janvier 2020
 
 ===
 
-Pour cette communication, je repars d'un évenement organisé à Montréal en mai 2019, intitulé _Publishing Sphere_. Prenant la suite d'une première édition initiée par Lionel Ruffel à Berlin l'été 2017, cette seconde édition était co-organisé par Lionel Ruffel, et l'équipe montréalaise de la chaire sur les écritures numériques, dirigée par Marcello Vitali-Rosati.
+je repars donc d'un évenement organisé à Montréal en mai 2019, intitulé _Publishing Sphere_. Prenant la suite d'une première édition initiée par Lionel Ruffel à Berlin l'été 2017, cette seconde édition était co-organisé par Lionel Ruffel, et l'équipe montréalaise de la chaire sur les écritures numériques, dirigée par Marcello Vitali-Rosati.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/affichePSorga50.jpg" data-background-size="contain"-->
@@ -60,7 +66,7 @@ Pour cette communication, je repars d'un évenement organisé à Montréal en ma
 
 ===
 
-Dans cette édition, nous avions voulu interroger ...  en rassemblant un panel d'éditeurs, d'auteur, de chercheurs et d'artistes, qui, à defaut d'être représentatif d'un web littéraire, tissait des liens et jetait des passerelles entre des mondes éditoriaux XXX..
+Dans cette édition, nous avions voulu interroger l'édition et la publication en rassemblant un panel d'éditeurs, d'auteur, de chercheurs et d'artistes, qui, à defaut d'être représentatif d'un web littéraire, tissait des liens et jetait des passerelles entre des mondes éditoriaux divers.
 
 L'enjeu de la PS, dans la lignée de la vision de Lionel Ruffel, était de déplacer le regard de la littérature, qu'elles qu'en soient les manifestations, pour s'intéresser aux processus qui la portent, l'affichent, l'éditent, la publient, etc.
 
@@ -75,7 +81,7 @@ La Publishing Sphere avait l'ambition d'expérimenter des dispositifs d'écritur
 
 Nous avions réparti la quarantaine de participants en 6 groupes de travail qui pendant trois jours ont planché pour proposer une ou plusieurs dispositifs et/ou production·s éditoriale·s, qu'elle soit poétique, littéraire, expérimentale, documentaire, ou autre.
 
-Un des groupes de travail, le Shanzhai Lyrics, a ainsi performé une traduction poétique des inscriptions trouvées sur les vêtements contrefaits en Chine [photos].
+<!-- Un des groupes de travail, le Shanzhai Lyrics, a ainsi performé une traduction poétique des inscriptions trouvées sur les vêtements contrefaits en Chine [photos]. -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ![ps-exphrasis](img/ps-exphrasis.png)
@@ -85,7 +91,7 @@ Un des groupes de travail, le Shanzhai Lyrics, a ainsi performé une traduction 
 <!-- .element: style="width:48%" -->
 
 ===
-Un des groupes de travail, mené par l'artiste Steve Giasson, s'est livré à l'exphrasis de sa page facebook, performance à 5 voix d'une trentaine de minutes.
+À titre d'exemple, un des groupes de travail, mené par l'artiste Steve Giasson, s'est livré à l'exphrasis de sa page facebook, performance à 5 voix d'une trentaine de minutes.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/ps-pinkmypad.png" data-background-size="cover"-->
@@ -96,9 +102,12 @@ Un des groupes de travail, mené par l'artiste Steve Giasson, s'est livré à l'
 <!-- .element class="fragment" data-fragment-index="2" -->
 
 ===
-Dans un esprit d'associer théorie et pratique, ou de faire naître la pensée par la pratique, nous avions proposé une plateforme d'écriture, de lecture et d'échange, elle-même un petit bijoux de bricolage, c'est-à-dire une techno aussi sale qu'efficace, aussi élégante qu'obscure, à la croisée de pratiques d'écritures émergentes (le pad d'écriture collaboratif) et d'une éditorialisation low-tech, et se voulant à la fois ouverte, transparente, appropriable.
+Dans l'esprit d'associer théorie et pratique, ou de faire naître la pensée par la pratique, nous avions proposé une plateforme d'écriture, de lecture et d'échange, elle-même un petit bijoux de bricolage, c'est-à-dire une techno aussi sale qu'efficace, aussi élégante qu'obscure, à la croisée de pratiques d'écritures émergentes (le pad d'écriture collaboratif) et d'une éditorialisation low-tech, et se voulant à la fois ouverte, transparente, appropriable.
 
-[CITATION]
+En incipit, nous avions écrit :
+
+> The Publishing Sphere emerges from writing in its broadest sense. For that very reason, it provides this Read/Write space that everyone can use to express, document, exchange, copy and paste, rewrite, remix and mashup.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/ps-pmp-experimentaltranslation.png" data-background-size="cover"-->
 
@@ -196,7 +205,7 @@ http://notes.ecrituresnumeriques.ca/bJ1f1lNVQn-YinY6x-3GrQ.html
 
 Et pourtant, dans ce groupe précisemment, rien ne s'est passé comme prévu. En pratique, nous avons passé trois jours à discuter sans réussir à faire émerger le moindre consensus d'action collective entre les participants. Voyant les différentes impasses dans lesquelles le groupe s'embourbait, nous avons tenté de mettre en place plusieurs dispositifs d'échange et de conversation, conversation synchrone et conversation asynchrone.
 
-Pour ma part, rompu à différentes expériences de collaboration, sur des projets très court terme, comme des hackathon de quelques jours, ou plus long terme, Je me suis retrouvé dans un groupe incapable de se parler, malgré les efforts des uns et des autres. Dans la documentation que je rédigeais à la fin de seconde journée dans un post intitulé «Qu'est ce qui s'est passé ces deux derniers jours», j'écrivais :
+Pour ma part, rompu à différentes expériences de collaboration, sur des projets très court terme, comme des hackathon de quelques jours, ou plus long terme, Je me suis retrouvé dans un groupe incapable de se parler, malgré les efforts des uns et des autres. Un peu desépéré, je rédigeais à la fin de la seconde journée une note intitulée «Qu'est ce qui s'est passé ces deux derniers jours» :
 
 > Au regard de positions si proches et lointaines, une conversation préalable semblait nécessaire avant d’envisager une forme d’action, d’écriture et de publication.
 >
@@ -237,7 +246,7 @@ Pourtant, on y voyait assez clair avec Sylvia en composant le groupe : Dans une 
 
 > Le lien à la Publishing Sphere est alors une réinvention des formes de publications et d’écriture, et ses effets sur le monde ou sur les terrains où se produisent ces écritures. j’y vois une production d’espace, qui peut être aussi une réinvention d’un espace public. Publier, ou rendre public, peut constituer une production d’espace. Le GI nous inspire une certaine forme d’espace, dans lequel peut se constituer un espace public. [source: http://notes.ecrituresnumeriques.ca/1jSmmzxnQ5i8RTc8Bl2oIQ.html#nicolas]
 
-Alors je vous propose maintenant de revenir un peu en arrière, et de regarder l'analyse qu'on faisait du GI deux ans plus tôt.
+Alors pour comprendre cette intuition, il est nécessaire de revenir en arrière. je vous propose donc de replonger dans l'analyse qu'on faisait du GI deux ans plus tôt.
 
 ---
 
@@ -482,29 +491,29 @@ Tout cela nous incite à penser que la valeur de cette littérature n'est plus �
 
 ===
 
-C'est en quelque sorte ce que nous poursuivions sans jamais vraiment l'attraper dans notre groupe sur l'institution fictionnelle.
+C'est en quelque sorte ce que nous poursuivions en mai dernier lors de la Publishing SPhere, dans notre groupe sur l'institution fictionnelle, mais sans jamais vraiment l'attraper.
 
-Car ce que le GI nous apprend c'est que le processus d'institutionnalisation est ailleurs, et surtout est autre. Il ne repose plus sur les structures traditionnelles, il se fait par l'écriture certes, mais dans une perpétuelle réécriture des structures, autrement dit dans un processus continue, dont la finalité n'est plus l'institution, mais le _faire collectif_..
+Car ce que le GI nous apprend c'est que le processus d'institutionnalisation est ailleurs, et surtout **est autre**. Il ne repose plus sur les structures traditionnelles de l'institution, il se fait par l'écriture certes, mais dans une perpétuelle réécriture des structures institutionnelles, autrement dit dans un processus continue, dont la finalité n'est plus l'institution, mais le _faire collectif_..
 
-Instin performe ainsi un autre mode d'existence de l'institution. Cette proposition institutionnelle alternative est effectivement le point de départ de chacun des participants au groupe.
+Instin performe ainsi un autre mode d'existence de l'institution. Cette proposition institutionnelle alternative était effectivement le point de départ de chacun des participants au groupe.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
 ![chatelier_diplomatiefantome](img/chatelier-diplomatiefantome.png)
 
-<!-- .element style="width:65%;" -->
+<!-- .element style="width:65%; float:left" -->
 
 ![chatelier-diplomatiefantome](img/chatelier-diplomatiefantome2.png)
 
-<!-- .element style="width:65%;float:left" -->
+<!-- .element style="width:65%;float:left;margin-top:-1em" -->
 
-Source : Diplomatie fantômnale (Patrick Chatelier)
+Source : Micro-récits d’une diplomatie fantômnale (Patrick Chatelier)
 
 <!-- .element style="margin-top:2em;font-size:0.8em" -->
 
 ===
-Patrick intervient 2 fois, une fois en jouant le jeu de la présentation du groupe à la fin des trois jours d'atelier. Son écriture témoigne d'un effort certain pour intégrer les différents éléments apportés par chaque participant du groupe. Dans cette première performance, il propose le récit d'une diplomatie fantomatique où se rencontrent une délégation d'humain avec celle des fantômes, supposée établir un dialogue entre humains et non-humains. M'intercalant dans cette performance, j'avais inscrit dans ce récit une série de fausses citations issues des vraies conversations du groupe. La prise de note initiale servant de matériau pour réécrire une série d'aphorismes et de maximes qui teintent le premier récit d'injonctions extraites de la prise de note du groupe et reformulées de manière dramatique.
+Patrick intervient 2 fois, une fois en jouant le jeu de la présentation du groupe à la fin des trois jours d'atelier. Son écriture témoigne d'un effort certain pour intégrer les différents éléments apportés par chaque participant du groupe. Dans cette première performance, il propose le récit d'une diplomatie fantomatique où se rencontrent une délégation d'humain avec celle des fantômes, supposée établir un dialogue entre humains et non-humains. M'intercalant dans cette performance, j'avais inscrit dans ce récit une série de fausses citations issues des vraies conversations du groupe. La prise de note initiale servant de matériau pour réécrire une série d'aphorismes et de maximes qui teintent le premier récit d'injonctions reformulées de manière dramatique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -617,7 +626,7 @@ On retrouve également ce paradigme dans la constitution des archives de ces ins
 
 > À chaque projet, à chaque institution fictive correspond son corpus d’anarchives. Pourquoi anarchives ? Parce que ce sont des archives qui sont constituées de manière anarchique et dans le temps, et par toute personne qui veut y contribuer, sur n’importe quel support et sous n’importe quelle forme.
 
-Il y a donc dans l'idée d'une institution fictive telle que l'Ambassade des communs, une vision particulière de l'institution.
+L'institution fictive telle que l'Ambassade des communs construit une vision particulière de l'institution.
 
 > L’ambassade, en tant qu’œuvre, peut mourir d’elle-même, comme elle peut aussi être revivifiée en étant portée par exemple par une association étudiante. Tout peut arriver. En tout cas, cela appartient à ceux qui en sont les usagers.
 
